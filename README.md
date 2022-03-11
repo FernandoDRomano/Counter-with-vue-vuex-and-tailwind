@@ -1,4 +1,6 @@
-# contador-con-vuex
+# Example counter
+
+This counter was created using vue, vuex and tailwind
 
 ## Project setup
 ```
@@ -15,5 +17,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo
+[Click Here :laughing:](https://counter-with-vue-vuex-and-tailwind.netlify.app/)
